@@ -1,0 +1,6 @@
+{
+  "appId": "io.github.h4cker3.ritm",
+  "appName": "Ритм",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}

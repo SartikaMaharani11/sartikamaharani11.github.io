@@ -1,0 +1,15 @@
+node_modules/
+.pnpm-store/
+dist/
+.env
+.env.*
+!.env.example
+tmp/
+android/
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
